@@ -1,0 +1,27 @@
+BRIEF CHO CV - SNAKE GAME PROJECT
+
+=== PHIÊN BẢN TIẾNG VIỆT ===
+
+SNAKE GAME PROJECT - DỰ ÁN GAME RẮN SĂN MỒI
+Dự án cá nhân | Java | [Năm thực hiện]
+
+Phát triển game Snake toàn diện với giao diện chuyên nghiệp sử dụng Java Swing. Tích hợp hệ thống độ khó đa cấp (Dễ/Trung bình/Khó), nhiều kiểu dáng rắn tùy chỉnh, hệ thống âm thanh đa phương tiện, power-up làm chậm game, và chướng ngại vật tường động. Ứng dụng kỹ năng lập trình hướng đối tượng, quản lý luồng cho game loop, xử lý sự kiện và thiết kế giao diện người dùng chuyên nghiệp.
+
+Công nghệ sử dụng: Java Swing, Audio Programming, Thread Management, OOP Design Patterns, Graphics Programming
+
+=== ENGLISH VERSION ===
+
+SNAKE GAME PROJECT
+Personal Project | Java | [Year]
+
+Developed a comprehensive Snake game featuring professional UI using Java Swing. Integrated multi-level difficulty system (Easy/Medium/Hard), customizable snake skins, multimedia audio system, power-ups for temporary game slowdown, and dynamic wall obstacles. Applied object-oriented programming, thread management for game loop, event handling, and professional user interface design skills.
+
+Technologies: Java Swing, Audio Programming, Thread Management, OOP Design Patterns, Graphics Programming
+
+=== PHIÊN BẢN NGẮN GỌN ===
+
+Tiếng Việt:
+Phát triển game Snake nâng cao với Java Swing, tích hợp hệ thống âm thanh, đa cấp độ khó và giao diện chuyên nghiệp.
+
+English:
+Developed advanced Snake game using Java Swing with integrated audio system, multiple difficulty levels, and professional interface.
