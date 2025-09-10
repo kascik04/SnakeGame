@@ -1,5 +1,5 @@
 ### Advanced Snake Game Project (Java)
-**Brief Description:** Developed a comprehensive Snake game using Java Swing with advanced features and professional user interface.
+**Brief Description:** Developed a comprehensive Snake game using Java Swing with advanced features and professional user interface.</br>
 **Position in team: Backend Developer**
 **Key Features:**
 - Multi-level difficulty system (Easy, Medium, Hard) with varying speeds and background music
